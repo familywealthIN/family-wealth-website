@@ -1,0 +1,28 @@
+{
+  "name": "family-wealth-website",
+  "version": "1.0.0",
+  "description": "Website for family wealth",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Family-Wealth/family-wealth-website.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Gaurav Panchal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Family-Wealth/family-wealth-website/issues"
+  },
+  "homepage": "https://github.com/Family-Wealth/family-wealth-website#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb": "^18.2.1"
+  }
+}
