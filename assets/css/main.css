@@ -3899,6 +3899,14 @@
 				width: 65em;
 			}
 
+			#footer .copyright .icons a {
+				font-size: 0.8em;
+				height: 2.5em;
+				line-height: 2.5em;
+				margin: 0 auto 0.7em;
+				width: 2.5em;
+			}
+
 		}
 
 		@media screen and (max-width: 980px) {
